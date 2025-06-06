@@ -1,0 +1,11 @@
+job_id,job_title
+1,Data Scientist
+2,Machine Learning Engineer
+3,Data Analyst
+4,Data Engineer
+5,Research Scientist
+6,Data Architect
+7,AI Specialist
+8,BI Analyst
+9,Data Science Manager
+10,ML Ops Engineer
