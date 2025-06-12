@@ -29,10 +29,12 @@
 
 15: Netflix: ![image](https://github.com/user-attachments/assets/b422ae6a-c2de-4190-9eb1-4be13058c061)
 
-16: Trip Advisor: ![image](https://github.com/user-attachments/assets/04d165e5-8362-49e4-8d88-c45516b66069)
+16: Stock Market: ![image](https://github.com/user-attachments/assets/1775f19f-86d7-4c87-860a-306ff55d3eaf)
 
-17: UEFA Champions League: ![image](https://github.com/user-attachments/assets/76e7c7fd-5406-4db2-bb55-29957afa9328)
+17: Trip Advisor: ![image](https://github.com/user-attachments/assets/04d165e5-8362-49e4-8d88-c45516b66069)
 
-18: Video Games Sales: ![image](https://github.com/user-attachments/assets/566923c9-cf3b-49e1-8ede-2fb8b92fcd16)
+18: UEFA Champions League: ![image](https://github.com/user-attachments/assets/76e7c7fd-5406-4db2-bb55-29957afa9328)
 
-19: World Cup: ![image](https://github.com/user-attachments/assets/8d635851-dae2-4188-a9db-286d9a664200)
+19: Video Games Sales: ![image](https://github.com/user-attachments/assets/566923c9-cf3b-49e1-8ede-2fb8b92fcd16)
+
+20: World Cup: ![image](https://github.com/user-attachments/assets/8d635851-dae2-4188-a9db-286d9a664200)
